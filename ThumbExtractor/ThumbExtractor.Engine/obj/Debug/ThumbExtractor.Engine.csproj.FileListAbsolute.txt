@@ -1,0 +1,7 @@
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.Engine\bin\Debug\ThumbExtractor.Engine.dll
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.Engine\bin\Debug\ThumbExtractor.Engine.pdb
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.Engine\bin\Debug\NLog.dll
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.Engine\bin\Debug\NLog.xml
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.Engine\obj\Debug\ThumbExtractor.Engine.dll
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.Engine\obj\Debug\ThumbExtractor.Engine.pdb
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.Engine\bin\Debug\NLog.config

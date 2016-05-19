@@ -1,0 +1,14 @@
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\NLog.config
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\CLI.exe.config
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\CLI.exe
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\CLI.pdb
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\FluentCommandLineParser.dll
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\NLog.dll
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\ThumbExtractor.Engine.dll
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\ThumbExtractor.Engine.pdb
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\FluentCommandLineParser.pdb
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\FluentCommandLineParser.xml
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\bin\Release\NLog.xml
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\obj\Release\ThumbExtractor.CLI.csprojResolveAssemblyReference.cache
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\obj\Release\CLI.exe
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.CLI\obj\Release\CLI.pdb

@@ -1,0 +1,14 @@
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\bin\Debug\ThumbExtractor.exe.config
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\bin\Debug\NLog.config
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\bin\Debug\ThumbExtractor.exe
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\bin\Debug\ThumbExtractor.pdb
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\bin\Debug\ThumbExtractor.Engine.dll
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\bin\Debug\NLog.dll
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\bin\Debug\ThumbExtractor.Engine.pdb
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\bin\Debug\NLog.xml
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\obj\Debug\ThumbExtractor.GUI.csprojResolveAssemblyReference.cache
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\obj\Debug\ThumbExtractor.GUI.Main.resources
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\obj\Debug\ThumbExtractor.GUI.Properties.Resources.resources
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\obj\Debug\ThumbExtractor.GUI.csproj.GenerateResource.Cache
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\obj\Debug\ThumbExtractor.exe
+D:\Unsafe\Development\Code Aequitas\2016\ThumbExtractor\ThumbExtractor\ThumbExtractor.GUI\obj\Debug\ThumbExtractor.pdb
